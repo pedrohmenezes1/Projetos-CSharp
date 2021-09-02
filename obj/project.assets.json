@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pedro\\Documents\\Aulas C#\\Aulas CSharp.csproj",
+      "projectUniqueName": "C:\\Users\\pedro\\Documents\\Aulas CSharp\\Aulas CSharp.csproj",
       "projectName": "Aulas CSharp",
-      "projectPath": "C:\\Users\\pedro\\Documents\\Aulas C#\\Aulas CSharp.csproj",
+      "projectPath": "C:\\Users\\pedro\\Documents\\Aulas CSharp\\Aulas CSharp.csproj",
       "packagesPath": "C:\\Users\\pedro\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pedro\\Documents\\Aulas C#\\obj\\",
+      "outputPath": "C:\\Users\\pedro\\Documents\\Aulas CSharp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\pedro\\AppData\\Roaming\\NuGet\\NuGet.Config"
