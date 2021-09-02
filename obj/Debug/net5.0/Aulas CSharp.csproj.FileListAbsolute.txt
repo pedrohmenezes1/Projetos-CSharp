@@ -1,0 +1,16 @@
+C:\Users\pedro\Documents\Aulas C#\obj\Debug\net5.0\Aulas CSharp.csproj.AssemblyReference.cache
+C:\Users\pedro\Documents\Aulas C#\obj\Debug\net5.0\Aulas CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\Documents\Aulas C#\obj\Debug\net5.0\Aulas CSharp.AssemblyInfoInputs.cache
+C:\Users\pedro\Documents\Aulas C#\obj\Debug\net5.0\Aulas CSharp.AssemblyInfo.cs
+C:\Users\pedro\Documents\Aulas C#\obj\Debug\net5.0\Aulas CSharp.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Documents\Aulas C#\bin\Debug\net5.0\Aulas CSharp.exe
+C:\Users\pedro\Documents\Aulas C#\bin\Debug\net5.0\Aulas CSharp.deps.json
+C:\Users\pedro\Documents\Aulas C#\bin\Debug\net5.0\Aulas CSharp.runtimeconfig.json
+C:\Users\pedro\Documents\Aulas C#\bin\Debug\net5.0\Aulas CSharp.runtimeconfig.dev.json
+C:\Users\pedro\Documents\Aulas C#\bin\Debug\net5.0\Aulas CSharp.dll
+C:\Users\pedro\Documents\Aulas C#\bin\Debug\net5.0\ref\Aulas CSharp.dll
+C:\Users\pedro\Documents\Aulas C#\bin\Debug\net5.0\Aulas CSharp.pdb
+C:\Users\pedro\Documents\Aulas C#\obj\Debug\net5.0\Aulas CSharp.dll
+C:\Users\pedro\Documents\Aulas C#\obj\Debug\net5.0\ref\Aulas CSharp.dll
+C:\Users\pedro\Documents\Aulas C#\obj\Debug\net5.0\Aulas CSharp.pdb
+C:\Users\pedro\Documents\Aulas C#\obj\Debug\net5.0\Aulas CSharp.genruntimeconfig.cache
