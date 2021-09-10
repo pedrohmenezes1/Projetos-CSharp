@@ -1,0 +1,5 @@
+C:\Users\pedro\Documents\Projectsharp\DigitalInnovationOne\csharp-examples\02-Instrucoes\obj\Debug\netcoreapp3.0\Instrucoes.csproj.AssemblyReference.cache
+C:\Users\pedro\Documents\Projectsharp\DigitalInnovationOne\csharp-examples\02-Instrucoes\obj\Debug\netcoreapp3.0\Instrucoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\Documents\Projectsharp\DigitalInnovationOne\csharp-examples\02-Instrucoes\obj\Debug\netcoreapp3.0\Instrucoes.AssemblyInfoInputs.cache
+C:\Users\pedro\Documents\Projectsharp\DigitalInnovationOne\csharp-examples\02-Instrucoes\obj\Debug\netcoreapp3.0\Instrucoes.AssemblyInfo.cs
+C:\Users\pedro\Documents\Projectsharp\DigitalInnovationOne\csharp-examples\02-Instrucoes\obj\Debug\netcoreapp3.0\Instrucoes.csproj.CoreCompileInputs.cache

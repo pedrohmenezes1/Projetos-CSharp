@@ -1,0 +1,14 @@
+C:\Users\pedro\Documents\Projectsharp\DigitalInnovationOne\csharp-examples\Revisao\bin\Debug\netcoreapp3.1\Revisao.exe
+C:\Users\pedro\Documents\Projectsharp\DigitalInnovationOne\csharp-examples\Revisao\bin\Debug\netcoreapp3.1\Revisao.deps.json
+C:\Users\pedro\Documents\Projectsharp\DigitalInnovationOne\csharp-examples\Revisao\bin\Debug\netcoreapp3.1\Revisao.runtimeconfig.json
+C:\Users\pedro\Documents\Projectsharp\DigitalInnovationOne\csharp-examples\Revisao\bin\Debug\netcoreapp3.1\Revisao.runtimeconfig.dev.json
+C:\Users\pedro\Documents\Projectsharp\DigitalInnovationOne\csharp-examples\Revisao\bin\Debug\netcoreapp3.1\Revisao.dll
+C:\Users\pedro\Documents\Projectsharp\DigitalInnovationOne\csharp-examples\Revisao\bin\Debug\netcoreapp3.1\Revisao.pdb
+C:\Users\pedro\Documents\Projectsharp\DigitalInnovationOne\csharp-examples\Revisao\obj\Debug\netcoreapp3.1\Revisao.csproj.AssemblyReference.cache
+C:\Users\pedro\Documents\Projectsharp\DigitalInnovationOne\csharp-examples\Revisao\obj\Debug\netcoreapp3.1\Revisao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\Documents\Projectsharp\DigitalInnovationOne\csharp-examples\Revisao\obj\Debug\netcoreapp3.1\Revisao.AssemblyInfoInputs.cache
+C:\Users\pedro\Documents\Projectsharp\DigitalInnovationOne\csharp-examples\Revisao\obj\Debug\netcoreapp3.1\Revisao.AssemblyInfo.cs
+C:\Users\pedro\Documents\Projectsharp\DigitalInnovationOne\csharp-examples\Revisao\obj\Debug\netcoreapp3.1\Revisao.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Documents\Projectsharp\DigitalInnovationOne\csharp-examples\Revisao\obj\Debug\netcoreapp3.1\Revisao.dll
+C:\Users\pedro\Documents\Projectsharp\DigitalInnovationOne\csharp-examples\Revisao\obj\Debug\netcoreapp3.1\Revisao.pdb
+C:\Users\pedro\Documents\Projectsharp\DigitalInnovationOne\csharp-examples\Revisao\obj\Debug\netcoreapp3.1\Revisao.genruntimeconfig.cache
