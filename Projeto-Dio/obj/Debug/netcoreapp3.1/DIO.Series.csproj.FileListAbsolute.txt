@@ -11,3 +11,16 @@
 /home/eliezer/sandbox/dio/DIO.Series/obj/Debug/netcoreapp3.1/DIO.Series.dll
 /home/eliezer/sandbox/dio/DIO.Series/obj/Debug/netcoreapp3.1/DIO.Series.pdb
 /home/eliezer/sandbox/dio/DIO.Series/obj/Debug/netcoreapp3.1/DIO.Series.genruntimeconfig.cache
+C:\Users\pedro\Documents\Projetos-CSharp\Projeto-Dio\bin\Debug\netcoreapp3.1\DIO.Series.exe
+C:\Users\pedro\Documents\Projetos-CSharp\Projeto-Dio\bin\Debug\netcoreapp3.1\DIO.Series.deps.json
+C:\Users\pedro\Documents\Projetos-CSharp\Projeto-Dio\bin\Debug\netcoreapp3.1\DIO.Series.runtimeconfig.json
+C:\Users\pedro\Documents\Projetos-CSharp\Projeto-Dio\bin\Debug\netcoreapp3.1\DIO.Series.runtimeconfig.dev.json
+C:\Users\pedro\Documents\Projetos-CSharp\Projeto-Dio\bin\Debug\netcoreapp3.1\DIO.Series.dll
+C:\Users\pedro\Documents\Projetos-CSharp\Projeto-Dio\bin\Debug\netcoreapp3.1\DIO.Series.pdb
+C:\Users\pedro\Documents\Projetos-CSharp\Projeto-Dio\obj\Debug\netcoreapp3.1\DIO.Series.csprojAssemblyReference.cache
+C:\Users\pedro\Documents\Projetos-CSharp\Projeto-Dio\obj\Debug\netcoreapp3.1\DIO.Series.AssemblyInfoInputs.cache
+C:\Users\pedro\Documents\Projetos-CSharp\Projeto-Dio\obj\Debug\netcoreapp3.1\DIO.Series.AssemblyInfo.cs
+C:\Users\pedro\Documents\Projetos-CSharp\Projeto-Dio\obj\Debug\netcoreapp3.1\DIO.Series.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Documents\Projetos-CSharp\Projeto-Dio\obj\Debug\netcoreapp3.1\DIO.Series.dll
+C:\Users\pedro\Documents\Projetos-CSharp\Projeto-Dio\obj\Debug\netcoreapp3.1\DIO.Series.pdb
+C:\Users\pedro\Documents\Projetos-CSharp\Projeto-Dio\obj\Debug\netcoreapp3.1\DIO.Series.genruntimeconfig.cache
