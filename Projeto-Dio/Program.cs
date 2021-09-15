@@ -51,12 +51,16 @@ namespace DIO.Series
 					case "C":
 						Console.Clear();
 						break;
-
+					case "":
+						Console.WriteLine("Digite uma das opções abaixo: ");
+						break;
 					default:
-						throw new ArgumentOutOfRangeException();
+						Console.WriteLine("Digite uma opção: ");
+						break;
+						
 				}
-
-				opcaoUsuario = ObterOpcaoUsuario();
+					opcaoUsuario = ObterOpcaoUsuario();
+				
 			}
 
 			Console.WriteLine("Obrigado por utilizar nossos serviços.");
@@ -311,9 +315,10 @@ namespace DIO.Series
 			Console.WriteLine("X- Sair");
 			Console.WriteLine();
 
-			string opcaoUsuario = Console.ReadLine().ToUpper();
+            string opcaoUsuario = Console.ReadLine().ToUpper();
 			Console.WriteLine();
 			return opcaoUsuario;
 		}
+		
     }
 }
