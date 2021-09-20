@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pedro\\Documents\\Projetos-CSharp\\Uninassau\\Desafio\\PorExtenso\\PorExtenso.csproj": {}
+    "C:\\Users\\pedro\\Documents\\Projetos-CSharp\\Uninassau\\Atividades\\Desafio\\PorExtenso\\PorExtenso.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pedro\\Documents\\Projetos-CSharp\\Uninassau\\Desafio\\PorExtenso\\PorExtenso.csproj": {
+    "C:\\Users\\pedro\\Documents\\Projetos-CSharp\\Uninassau\\Atividades\\Desafio\\PorExtenso\\PorExtenso.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pedro\\Documents\\Projetos-CSharp\\Uninassau\\Desafio\\PorExtenso\\PorExtenso.csproj",
+        "projectUniqueName": "C:\\Users\\pedro\\Documents\\Projetos-CSharp\\Uninassau\\Atividades\\Desafio\\PorExtenso\\PorExtenso.csproj",
         "projectName": "PorExtenso",
-        "projectPath": "C:\\Users\\pedro\\Documents\\Projetos-CSharp\\Uninassau\\Desafio\\PorExtenso\\PorExtenso.csproj",
+        "projectPath": "C:\\Users\\pedro\\Documents\\Projetos-CSharp\\Uninassau\\Atividades\\Desafio\\PorExtenso\\PorExtenso.csproj",
         "packagesPath": "C:\\Users\\pedro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pedro\\Documents\\Projetos-CSharp\\Uninassau\\Desafio\\PorExtenso\\obj\\",
+        "outputPath": "C:\\Users\\pedro\\Documents\\Projetos-CSharp\\Uninassau\\Atividades\\Desafio\\PorExtenso\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pedro\\AppData\\Roaming\\NuGet\\NuGet.Config"

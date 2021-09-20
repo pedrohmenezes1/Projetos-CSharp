@@ -24,3 +24,16 @@ C:\Users\pedro\Documents\Projetos-CSharp\Uninassau\Desafio\PorExtenso\obj\Debug\
 C:\Users\pedro\Documents\Projetos-CSharp\Uninassau\Desafio\PorExtenso\obj\Debug\netcoreapp3.1\PorExtenso.dll
 C:\Users\pedro\Documents\Projetos-CSharp\Uninassau\Desafio\PorExtenso\obj\Debug\netcoreapp3.1\PorExtenso.pdb
 C:\Users\pedro\Documents\Projetos-CSharp\Uninassau\Desafio\PorExtenso\obj\Debug\netcoreapp3.1\PorExtenso.genruntimeconfig.cache
+C:\Users\pedro\Documents\Projetos-CSharp\Uninassau\Atividades\Desafio\PorExtenso\bin\Debug\netcoreapp3.1\PorExtenso.exe
+C:\Users\pedro\Documents\Projetos-CSharp\Uninassau\Atividades\Desafio\PorExtenso\bin\Debug\netcoreapp3.1\PorExtenso.deps.json
+C:\Users\pedro\Documents\Projetos-CSharp\Uninassau\Atividades\Desafio\PorExtenso\bin\Debug\netcoreapp3.1\PorExtenso.runtimeconfig.json
+C:\Users\pedro\Documents\Projetos-CSharp\Uninassau\Atividades\Desafio\PorExtenso\bin\Debug\netcoreapp3.1\PorExtenso.runtimeconfig.dev.json
+C:\Users\pedro\Documents\Projetos-CSharp\Uninassau\Atividades\Desafio\PorExtenso\bin\Debug\netcoreapp3.1\PorExtenso.dll
+C:\Users\pedro\Documents\Projetos-CSharp\Uninassau\Atividades\Desafio\PorExtenso\bin\Debug\netcoreapp3.1\PorExtenso.pdb
+C:\Users\pedro\Documents\Projetos-CSharp\Uninassau\Atividades\Desafio\PorExtenso\obj\Debug\netcoreapp3.1\PorExtenso.csprojAssemblyReference.cache
+C:\Users\pedro\Documents\Projetos-CSharp\Uninassau\Atividades\Desafio\PorExtenso\obj\Debug\netcoreapp3.1\PorExtenso.AssemblyInfoInputs.cache
+C:\Users\pedro\Documents\Projetos-CSharp\Uninassau\Atividades\Desafio\PorExtenso\obj\Debug\netcoreapp3.1\PorExtenso.AssemblyInfo.cs
+C:\Users\pedro\Documents\Projetos-CSharp\Uninassau\Atividades\Desafio\PorExtenso\obj\Debug\netcoreapp3.1\PorExtenso.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Documents\Projetos-CSharp\Uninassau\Atividades\Desafio\PorExtenso\obj\Debug\netcoreapp3.1\PorExtenso.dll
+C:\Users\pedro\Documents\Projetos-CSharp\Uninassau\Atividades\Desafio\PorExtenso\obj\Debug\netcoreapp3.1\PorExtenso.pdb
+C:\Users\pedro\Documents\Projetos-CSharp\Uninassau\Atividades\Desafio\PorExtenso\obj\Debug\netcoreapp3.1\PorExtenso.genruntimeconfig.cache
