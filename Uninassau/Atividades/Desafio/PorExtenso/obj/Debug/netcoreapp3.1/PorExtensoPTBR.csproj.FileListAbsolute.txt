@@ -1,0 +1,13 @@
+C:\Users\pedro\Desktop\PorExtensoPTBR-master\PorExtensoPTBR\obj\Debug\netcoreapp3.1\PorExtensoPTBR.csprojAssemblyReference.cache
+C:\Users\pedro\Desktop\PorExtensoPTBR-master\PorExtensoPTBR\obj\Debug\netcoreapp3.1\PorExtensoPTBR.AssemblyInfoInputs.cache
+C:\Users\pedro\Desktop\PorExtensoPTBR-master\PorExtensoPTBR\obj\Debug\netcoreapp3.1\PorExtensoPTBR.AssemblyInfo.cs
+C:\Users\pedro\Desktop\PorExtensoPTBR-master\PorExtensoPTBR\obj\Debug\netcoreapp3.1\PorExtensoPTBR.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Desktop\PorExtensoPTBR-master\PorExtensoPTBR\bin\Debug\netcoreapp3.1\PorExtensoPTBR.exe
+C:\Users\pedro\Desktop\PorExtensoPTBR-master\PorExtensoPTBR\bin\Debug\netcoreapp3.1\PorExtensoPTBR.deps.json
+C:\Users\pedro\Desktop\PorExtensoPTBR-master\PorExtensoPTBR\bin\Debug\netcoreapp3.1\PorExtensoPTBR.runtimeconfig.json
+C:\Users\pedro\Desktop\PorExtensoPTBR-master\PorExtensoPTBR\bin\Debug\netcoreapp3.1\PorExtensoPTBR.runtimeconfig.dev.json
+C:\Users\pedro\Desktop\PorExtensoPTBR-master\PorExtensoPTBR\bin\Debug\netcoreapp3.1\PorExtensoPTBR.dll
+C:\Users\pedro\Desktop\PorExtensoPTBR-master\PorExtensoPTBR\bin\Debug\netcoreapp3.1\PorExtensoPTBR.pdb
+C:\Users\pedro\Desktop\PorExtensoPTBR-master\PorExtensoPTBR\obj\Debug\netcoreapp3.1\PorExtensoPTBR.dll
+C:\Users\pedro\Desktop\PorExtensoPTBR-master\PorExtensoPTBR\obj\Debug\netcoreapp3.1\PorExtensoPTBR.pdb
+C:\Users\pedro\Desktop\PorExtensoPTBR-master\PorExtensoPTBR\obj\Debug\netcoreapp3.1\PorExtensoPTBR.genruntimeconfig.cache
