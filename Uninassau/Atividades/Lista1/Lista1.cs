@@ -119,11 +119,41 @@ namespace Lista1
         }
         }
     */
-    /*  Aula 4    
-        class Program 
+      //Aula 4    
+    /*   class Program 
         {
-                static void Main(string[] args) 
-        {
+            static void Main(string[] args) 
+            {
+                string opcaoUsuario = ObterOpcaoUsuario();
+
+                while (opcaoUsuario.ToUpper() != "X")
+			    {
+				switch (opcaoUsuario)
+				{
+					
+                    case "1":
+						NumeroCrescente();
+						break;
+					case "2":
+						NumeroDecrescente();
+                        break;
+                    case "C":
+						Console.Clear();
+						break;
+                    case "":
+						Console.WriteLine("Digite uma das opções abaixo: ");
+						break;        
+                    default:
+						Console.WriteLine("Digite uma opção: ");
+						break;
+                }
+                    opcaoUsuario = ObterOpcaoUsuario();    
+                }
+                    Console.WriteLine("Obrigado por utilizar nossos serviços.");           
+        
+            }
+            private static void NumeroCrescente()
+            {
                 int num = 0;
 
                 List<int> listar = new List<int>();
@@ -139,17 +169,60 @@ namespace Lista1
                     listar.Sort();
  
                     Console.WriteLine();
-                    Console.WriteLine("Os numeros digitados são:");
+                    Console.WriteLine("Os números digitados na ordem crescente são:");
  
                 foreach (int termo in listar) 
                 {
                     Console.WriteLine(termo);
                 }
-                    Console.ReadKey();
-        }
+            }
+            private static void NumeroDecrescente()
+            {
+                int num = 0;
+
+                List<int> listar = new List<int>();
+ 
+                while (num <= 2)
+                   {
+                    Console.WriteLine("Digite seu " + (num + 1) + "º número");
+                    listar.Add(int.Parse(Console.ReadLine()));
+ 
+                    num++;
+                    }
+            
+                    listar.Sort();
+                    listar.Reverse();
+ 
+                    Console.WriteLine();
+                    Console.WriteLine("Os números digitados na ordem decrescente são:");
+ 
+                foreach (int termo in listar) 
+                {
+                    Console.WriteLine(termo);
+                }
+            }
+            private static string ObterOpcaoUsuario()
+            {
+                Console.WriteLine();
+			    Console.WriteLine("===========================================");
+			    Console.WriteLine("Informe a opção desejada:");
+
+                Console.WriteLine("1- Listar números crescentes");
+			    Console.WriteLine("2- Listar números decrescentes");
+			    Console.WriteLine("C- Limpar tela");
+			    Console.WriteLine("X- Sair");
+                Console.WriteLine();
+
+                string opcaoUsuario = Console.ReadLine().ToUpper();
+			    Console.WriteLine();
+			    return opcaoUsuario;
+
+
+
+            }
+
         }
     */
-    
     /*
         class Classe 
         {
@@ -296,98 +369,24 @@ namespace Lista1
         }
     */
 
-    public class Program
+    public class TestaLancaMoeda
+
 {
-	public static void Main()
+	public static void main( String[] args )
 	{
-        int valor;
-        Console.WriteLine("Digite um valor entre 0 e 999:");
-        valor = Convert.ToInt32(Console.ReadLine());
-		busqueExtenso(1000, " e ");
-	}
-	
-	public static void busqueExtenso(int valor, string separador){
-		
-		if(valor < 20)
-		{	
-			Console.WriteLine(RetorneValorString(valor));
-		}
-		
-		if(valor > 19)
-		{	
-			int len = valor.ToString().Length;
-		
-			if(len == 2)
-			{
-				int ValorPrimario = int.Parse(valor.ToString().Substring(0,1));
-				int ValorSecundario = int.Parse(valor.ToString().Substring(1,1));
-				ValorPrimario = ValorPrimario * 10;
-				Console.WriteLine(RetorneValorString(ValorPrimario)+(ValorSecundario>0 ? separador+RetorneValorString(ValorSecundario):""));
-			}
-			else if(len == 3)
-			{
-				int ValorPrimario = int.Parse(valor.ToString().Substring(0,1));
-				int ValorSecundario = int.Parse(valor.ToString().Substring(1,1));
-				int ValorTerciario = int.Parse(valor.ToString().Substring(2,1));
-				
-				ValorPrimario = ValorPrimario * 100;
-				ValorSecundario = ValorSecundario * 10;
-				
-				
-				Console.WriteLine( RetorneValorString(ValorPrimario)
-								  +(ValorSecundario > 0  ? separador+RetorneValorString(ValorSecundario):"")
-								  +(ValorTerciario > 0 ?separador+RetorneValorString(ValorTerciario):""));
-			}
-		}
-		
-	}
-	
-	public static string RetorneValorString(int identificador){
-		switch (identificador)
+		Random entrada = new Random();
+		int lancarMoeda = new int();
+
+		Console.Write( "Escolha uma opção: \n\n1: Lançar Moeda.\n2: Sair.\n" );
+		lancarMoeda = entrada.Next();
+
+		while( lancarMoeda == 1 ) // lança moedas até eu escolher Sair
 		{
-			case 1: return "Um";
-			case 2: return "Dois";
-			case 3: return "Tres";
-			case 4: return "Quatro";
-			case 5: return "Cinco";
-			case 6: return "Seis";
-			case 7: return "Sete";
-			case 8: return "Oito";
-			case 9: return "Nove";
-			
-			case 10: return"Dez";
-			case 11: return "Onze";
-			case 12: return "Doze";
-			case 13: return "Treze";
-			case 14: return "Quatorze";
-			case 15: return "Quinze";
-			case 16: return "Dezesseis";
-			case 17: return "Dezessete";
-			case 18: return "Dezoito";
-			case 19: return "Dezenove";
-			
-			case 20: return"Vinte";
-			case 30: return"Trinta";
-			case 40: return"Quarenta";
-			case 50: return"Cinquenta";
-			case 60: return"Sessenta";
-			case 70: return"Setenta";
-			case 80: return"Oitenta"; 
-			case 90: return"Noventa";  
-			
-			case 100:return "Cem";         
-			case 200:return "Duzentos";    
-			case 300:return "Trezentos";   
-			case 400:return "Quatrocentos";
-			case 500:return "Quinhentos";  
-			case 600:return "Seicentos";   
-			case 700:return "Setecentos";  
-			case 800:return "Oitocentos";  
-			case 900:return "Novecentos";  
-			
-			default:return "Valor inválido";
-		}
-	
+
+			// Pergunta novamente se quero sair ou lançar a moeda
+			Console.Write( "Escolha uma opção: \n\n1: Lançar Moeda.\n2: Sair.\n" );
+			lancarMoeda = entrada.Next();
+		}	
 	}
 }
 }

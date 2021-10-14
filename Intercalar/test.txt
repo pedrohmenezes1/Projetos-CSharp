@@ -1,0 +1,32 @@
+using System;
+using System.Collections.Generic;
+class Helpper
+{
+    static void Main(string[] args)
+    {
+        int tamagotchis = 12;
+        int money = 20;
+        Console.WriteLine("\tDesconto");
+        while ( tamagotchis >= 1)
+        {
+             Console.WriteLine("Tamagotchis= " + " R$" + tamagotchis + ",00");
+             tamagotchis=tamagotchis-1;
+        
+        }
+        Console.WriteLine("\tCompra");
+        while ( tamagotchis <= 12 && money >=0 )
+        {
+
+             Console.WriteLine("Dinheiro= " + " R$" + money + ",00");
+             tamagotchis = tamagotchis+1;
+             money = money - tamagotchis;
+        }
+        Console.WriteLine("==========================");
+        Console.WriteLine("Você comprou 5 Tamagotchis");
+        Console.WriteLine("==========================");
+           
+
+    }
+    
+
+}

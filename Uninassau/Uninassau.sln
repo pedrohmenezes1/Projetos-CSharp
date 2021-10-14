@@ -11,8 +11,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Atividades", "Atividades", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lista1", "Atividades\Lista1\Lista1.csproj", "{BBD9A635-9F0D-4FFD-B7D7-8F7DE3975708}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Desafio", "Desafio\Desafio.csproj", "{CFD94E58-EDD8-44CA-9AAB-85A76D6AFEEC}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Desafio", "Desafio", "{1EE43DC5-1EE5-432E-9370-6351F2F4914A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PorExtenso", "Desafio\PorExtenso\PorExtenso.csproj", "{43DED0EC-26C1-4180-A489-CCCED9DDF65A}"
